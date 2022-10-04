@@ -5,3 +5,6 @@ It contains two files:
 
 - ISA.mlx: A livescript that lets the user to manually input height values in order to obtain pressure, temperature and density as well as graphic representations.
 - International_Standard_Atmosphere.mlx: A function version that is already prepared as an auxiliary function to be called from another script.
+
+References: 
+- The International Standard Atmosphere (ISA). Mustafa Cavcar. Anadolu University, 26470 Eskisehir, Turkey.
